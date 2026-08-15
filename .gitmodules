@@ -1,0 +1,3 @@
+[submodule "web-development/hardtech"]
+	path = web-development/hardtech
+	url = https://github.com/saadalmalki1/hardtech.git
